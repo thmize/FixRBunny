@@ -1,2 +1,5 @@
 I don't practice Santeria
 I ain't got no crystal ball.
+redirected text to the bottom of another_file.txt
+another redirected text to the bottom of another_file.txt
+yet another redirected text to the bottom of another_file.txt
